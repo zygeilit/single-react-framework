@@ -1,0 +1,2 @@
+# single-react-framework
+这是一个用react技术站搭建起来的简易framework，从开始学习react到搭建只用了5天。由于理解的不够透彻，framework中还有很多地方不得当，后续会继续优化
