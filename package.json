@@ -1,0 +1,48 @@
+{
+  "name": "react maker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "一个react技术站搭建的, 比较简陋, 从开始学习react到搭建完毕用了5天"
+  },
+  "scripts": {
+    "watch": "webpack --progress --colors --watch",
+    "build": "webpack",
+    "server": "node server.js"
+  },
+  "author": "zygeilit@icloud.com",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.18.0",
+    "babel-loader": "^6.2.7",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-react": "^6.16.0",
+    "clean-css": "^3.4.20",
+    "css-loader": "^0.25.0",
+    "http-server": "^0.9.0",
+    "jshint": "^2.9.4",
+    "mocha": "^3.1.2",
+    "sass-loader": "^4.0.2",
+    "serve": "^1.4.0",
+    "style-loader": "^0.13.1",
+    "uglify-js": "^2.7.4",
+    "watch": "^1.0.1",
+    "webpack": "^1.13.3"
+  },
+  "dependencies": {
+    "css-loader": "^0.25.0",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "httpdispatcher": "^2.0.1",
+    "isomorphic-fetch": "^2.2.1",
+    "node-sass": "^3.11.0",
+    "node-static": "^0.7.9",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "react-redux": "^4.4.5",
+    "react-router": "^3.0.0",
+    "redux": "^3.6.0",
+    "redux-thunk": "^2.1.0",
+    "sass-loader": "^4.0.2"
+  }
+}
