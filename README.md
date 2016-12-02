@@ -5,3 +5,12 @@
 * 1. npm install
 * 2. npm run build(合并压缩js,css文件；生成index页面)
 * 3. node server.js(启动nodejs服务)
+
+# 技术站
+* 1. react
+* 2. redux
+* 3. webpack
+* 4. jsx
+* 5. ES6
+* 6. nodejs
+* 7. sass
